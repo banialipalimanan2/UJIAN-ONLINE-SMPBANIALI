@@ -31,7 +31,7 @@
   <div class="iframe-container">
     <iframe
       id="app"
-      src="https://script.google.com/macros/s/AKfycbx7-ydRbIhe2-0_c68MaiSGx_Ix2Eq0eRgDPVRpnT7BVmc7NYxDgqt16znHJPI_MUqd/exec"
+      src="https://script.google.com/macros/s/AKfycbx7-ydRbIhe2-0_c68MaiSGx_Ix2Eq0eRgDPVRpnT7BVmc7NYxDgqt16znHJPI_MUqd/exec?embedded=true"
       scrolling="yes"
       allowfullscreen="true"
       webkitallowfullscreen="true"
