@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>UJIAN ONLINE SMPBANIALI</title>
+  <title>UJIAN-ONLINE-SMPBANIALI</title>
   <link rel="icon" type="image/png" href="https://i.imgur.com/g4egG2Z.png">
   <style>
     html, body {
@@ -14,13 +14,11 @@
       background-color: #eee;
       overflow: hidden; /* Mencegah scroll ganda */
     }
-
     .iframe-container {
       width: 100%;
       height: 100dvh; /* Menggunakan dvh agar pas di mobile browser */
       overflow: hidden;
     }
-
     iframe {
       display: block;
       width: 100%;
