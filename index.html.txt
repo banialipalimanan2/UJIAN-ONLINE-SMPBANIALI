@@ -29,14 +29,12 @@
 </head>
 <body>
   <div class="iframe-container">
-    <iframe
-      id="app"
-      src="https://script.google.com/macros/s/AKfycbx7-ydRbIhe2-0_c68MaiSGx_Ix2Eq0eRgDPVRpnT7BVmc7NYxDgqt16znHJPI_MUqd/exec?embedded=true"
-      scrolling="yes"
-      allowfullscreen="true"
-      webkitallowfullscreen="true"
-      mozallowfullscreen="true"
-      allow="fullscreen; camera; microphone; display-capture; geolocation;">
+  <iframe
+  src="https://script.google.com/macros/s/AKfycbx7-ydRbIhe2-0_c68MaiSGx_Ix2Eq0eRgDPVRpnT7BVmc7NYxDgqt16znHJPI_MUqd/exec?embedded=true"
+  style="position:fixed; top:0; left:0; width:100%; height:100%; border:none;"
+  allow="fullscreen"
+  sandbox="allow-scripts allow-same-origin allow-forms allow-popups">
+</iframe>
     </iframe>
   </div>
 </body>
